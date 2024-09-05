@@ -7,7 +7,7 @@ export default function Home() {
       <h1 className="font-bold text-red-500 animate-pulse text-5xl">Hello world Devendra</h1>
       <p className="text-3xl mt-2">Everyone :P</p>
       <main className="text-center p-8">
-        <h1 className="text-6xl font-bold mb-6">Welcome to Our Website</h1>
+        <h1 className="text-6xl font-bold mb-6">Welcome to Our Website guys</h1>
         <p className="text-xl mb-8">Discover amazing products and services</p>
         <div className="space-x-4">
           <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
